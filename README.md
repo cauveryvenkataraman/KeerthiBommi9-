@@ -15,16 +15,21 @@ You define personas, create an empathy map, and build a system context diagram. 
   please make sure you have the necessary libraries installed, like scikit-learn, pandas and matplotlib.
 
   # STEPS TO RUN THE PROJECT
-we using the vs code for run the program
-import the libraries for numpy,pandas, matplotlib,and sklearn in lib.
-load the libraries dataset
-data preprocessing for the chatlib
-next split the data into training and training sets
-create the model to user 
-make the prediction to test model
-evaluate the model
-visualize the confusion matrix and then get output
-showed output 
+1.we using the vs code for run the program.
+2.import the libraries for numpy,pandas,tensorflow,keras and sklearn in lib.
+3. load the datasets.
+4.dataprocessing for the dataset.
+5.define the model.
+6.compile the module.
+7.train the model.
+8.test the model.
+9.make predictions.
+10.visualizes the result.
+11.get the output.
+
+   # ACKNOWLEDGEMENT
+
+   special thanks to the open-source community for developing and maintaining the deep learning frameworks and chatbot deployment processing libraries used in this project.
 
 
 
