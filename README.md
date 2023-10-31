@@ -6,6 +6,10 @@
  
 You define personas, create an empathy map, and build a system context diagram. Then, you extract the potential list of intents. Intents are the purposes or goals that are expressed in a user's input, such as answering a question or processing a payment.
 
+  # REQUIREMENTS
+  clone the repository
+https://github.com/cauveryvenkataraman/cauvery.git
+
   # SOFTWARE
 
    Then it can be more softwares are using from this project to a program run it easy for softwares are word,chrome,microsoft windows.
